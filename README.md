@@ -15,4 +15,8 @@ A modern and responsive car rental web application built with **Laravel**, **Ine
 - **Authentication:** Laravel Breeze (optional)
 - **Database:** MySQL
 
+## 🔧 Project/login
 
+- **Video:** https://drive.google.com/file/d/16QBzZjeVrkrcIEhbicT4ElUxXdzC8vA9/view?usp=sharing 
+- **Admin Login:** admin@admin.com/admin
+- **Customer Login:** test_user@gmail.com/1234
